@@ -1,1 +1,1 @@
-This project is aimed at identifying the diseases on the plant and applying the same technology in the field.
+This is plant diease detection project and We have implemented deep learning model for that. This model could achive near about 99% accuracy trained over the 38 plant disease classes.
