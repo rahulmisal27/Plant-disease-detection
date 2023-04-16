@@ -77,3 +77,45 @@ This model could achive near about 99% accuracy trained over the 38 plant diseas
     Non-trainable params: 2,880
     _________________________________________________________________
 
+
+Project Organization
+------------
+
+    ├── LICENSE
+    ├── Makefile
+    ├── README.md
+    ├── docs
+    │   ├── Makefile
+    │   ├── commands.rst
+    │   ├── conf.py
+    │   ├── getting-started.rst
+    │   ├── image_overview.png
+    │   ├── index.rst
+    │   └── make.bat
+    ├── index.md
+    ├── models
+    ├── notebooks
+    │   ├── Plant disease detection model - Final Model.ipynb
+    │   └── Plant disease identification -  Sample Model.ipynb
+    ├── references
+    ├── reports
+    │   └── figures
+    ├── requirements.txt
+    ├── setup.py
+    ├── src
+    │   ├── __init__.py
+    │   ├── data
+    │   │   ├── __init__.py
+    │   │   └── make_dataset.py
+    │   ├── features
+    │   │   ├── __init__.py
+    │   │   └── build_features.py
+    │   ├── models
+    │   │   ├── __init__.py
+    │   │   ├── predict_model.py
+    │   │   └── train_model.py
+    │   └── visualization
+    │       ├── __init__.py
+    │       └── visualize.py
+    ├── test_environment.py
+    └── tox.ini`
